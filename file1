@@ -1,9 +1,5 @@
-Search for Java learning program - Search info here
-travelsearchexpert.com has been visited by 100K+ users in the past month
-
-Search for Java learning program at TravelSearchExpert. Check out results for Java learning program
-
-Find Answers · Search Now · Popular Searches · Related Searches
-
-Types: Home & Garden, Finance, Vehicles
-https://github.com/Mohanmoola/Gitpractice.git
+#include <stdio.h>
+int main() {
+  printf("Hello, World\n");
+  return 0;
+}
